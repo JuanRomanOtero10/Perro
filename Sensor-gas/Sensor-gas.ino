@@ -1,7 +1,7 @@
 //Grupo 4 Otero - Fraccaro - Ponczyk - Nisim
 
-#define MQ4_PIN 33
-#define MQ9_PIN 32
+#define MQ4_PIN 32
+#define MQ9_PIN 33
 
 int lecturaMQ4;
 int valorMQ4; 

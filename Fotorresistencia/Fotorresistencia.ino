@@ -1,6 +1,6 @@
 //Grupo 4 Otero - Fraccaro - Ponczyk - Nisim
 
-#define LDR_PIN 33
+#define LDR_PIN 34
 
 void setup() {
   Serial.begin(115200);
